@@ -13,15 +13,17 @@
   * [你不知道的 JS (中文版)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 
 * ### TypeScript (JavaScript 超集)
+
   * TypeScript 文档 [中文](https://www.tslang.cn/docs/handbook/basic-types.html) [English](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
-## Node.js
-
-* Node.js 文档 [中文](http://nodejs.cn/api/documentation.html) [English](https://nodejs.org/dist/latest-v10.x/docs/api/)
+* ### Dart
+  * [Dart](https://www.dartlang.org/)
 
 ## 指南
 
 * [JavaScript 风格指南](https://github.com/airbnb/javascript)
+* [React / JSX 风格指南](https://github.com/airbnb/javascript/tree/master/react)
+* [CSS / Sass 风格指南](https://github.com/airbnb/css)
 * [CSS 视觉指南](https://cssreference.io/?utm_source=qq&utm_medium=social)
 
 ## 精选片段
@@ -29,6 +31,10 @@
 * [30 Seconds of JS(JS 精选片段)](https://github.com/Chalarangelo/30-seconds-of-code/blob/master/README.md)
 
 * [30 Seconds of CSS (CSS 精选片段)](https://atomiks.github.io/30-seconds-of-css/)
+
+## 函数式概念
+
+* [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn/blob/master/FunctionalProgrammingForTheRestOfUs.cn.md)
 
 ## 数据结构
 
@@ -44,3 +50,4 @@
 ## 技术资源
 
 * [MDN Web 文档](https://developer.mozilla.org/zh-CN/)
+* [免费的编程书籍](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)

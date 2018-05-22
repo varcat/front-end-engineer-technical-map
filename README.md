@@ -33,9 +33,8 @@
 * [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 * [我眼中的 JavaScript 函数式编程](http://taobaofed.org/blog/2017/03/16/javascript-functional-programing/)
 * JavaScript函数式编程
-  * [一](https://zhuanlan.zhihu.com/p/21714695)
-  * [二](https://zhuanlan.zhihu.com/p/21926955)
-  * [三](https://zhuanlan.zhihu.com/p/22094473)
+
+  [一](https://zhuanlan.zhihu.com/p/21714695)﹒[二](https://zhuanlan.zhihu.com/p/21926955)﹒[三](https://zhuanlan.zhihu.com/p/22094473)
 
 ## 数据结构
 

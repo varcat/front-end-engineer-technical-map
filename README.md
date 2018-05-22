@@ -27,9 +27,15 @@
 
 * [30 Seconds of CSS (CSS 精选片段)](https://atomiks.github.io/30-seconds-of-css/)
 
-## 函数式概念
+## 函数式编程
 
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn/blob/master/FunctionalProgrammingForTheRestOfUs.cn.md)
+* [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+* [我眼中的 JavaScript 函数式编程](http://taobaofed.org/blog/2017/03/16/javascript-functional-programing/)
+* JavaScript函数式编程
+  * [一](https://zhuanlan.zhihu.com/p/21714695)
+  * [二](https://zhuanlan.zhihu.com/p/21926955)
+  * [三](https://zhuanlan.zhihu.com/p/22094473)
 
 ## 数据结构
 
@@ -65,6 +71,19 @@
 * [前端WebAR实现简单版 pokemon Go](http://imweb.io/topic/5867d1bcb3ce6d8e3f9f99b3)
 * [在 Web 上快速启动 AR ](https://developers.google.com/ar/develop/web/quickstart) (可能需要翻墙)
 * [Web 前端中的增强现实（AR）开发技术](http://www.infoq.com/cn/articles/augmented-reality-development-tech-in-web-frontend)
+
+## WebRTC
+
+* [使用 WebRTC 构建简单的前端视频通信](https://zhuanlan.zhihu.com/p/21478634)
+* [WebRTC API](https://developer.mozilla.org/zh-CN/docs/Web/API/WebRTC_API)
+* [WebRTC 的前世今生](https://blog.coding.net/blog/getting-started-with-webrtc)
+
+## [Progressive Web Apps](https://developer.mozilla.org/zh-CN/Apps/Progressive) (渐进式Web应用程序)
+
+* [什么是 PWA](https://lavas.baidu.com/pwa)
+* [下一代 Web 应用模型](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
+* [简单介绍一下Progressive Web App(PWA)](https://juejin.im/post/5a6c86e451882573505174e7)
+* [Progressive Web Apps 谷歌开发者](https://developers.google.com/web/progressive-web-apps/)
 
 ## 常用开源框架
 
